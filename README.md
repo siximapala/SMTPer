@@ -1,7 +1,7 @@
 # SMTPer
 # SMTP Image Sender Script
 
-A tool for sending images via email using raw SMTP sockets. The script allows users to configure various sending options and workflows:
+A tool for sending images via email using raw SMTP sockets. The script allows users to configure various sending options and workflows.
 
 ## Features
 
